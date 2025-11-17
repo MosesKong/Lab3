@@ -30,7 +30,6 @@ def calculate_average_salary():
     print("AVERAGE SALARY = ", average)
     return round(average, 2)
 
-
 def get_employees_by_dept(department):
     result = []
 
